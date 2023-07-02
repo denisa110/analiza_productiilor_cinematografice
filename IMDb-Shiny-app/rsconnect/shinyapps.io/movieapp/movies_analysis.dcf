@@ -1,0 +1,13 @@
+name: movies_analysis
+title: movies_analysis
+username:
+account: movieapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9373761
+bundleId: 7394431
+url: https://movieapp.shinyapps.io/movies_analysis/
+when: 1687887758.7075
+lastSyncTime: 1687887758.70751
+asMultiple: FALSE
+asStatic: FALSE
