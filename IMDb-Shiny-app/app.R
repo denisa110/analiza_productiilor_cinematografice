@@ -347,7 +347,8 @@ server <- function(input, output, session) {
                              h4(" Prin intermediul aplicației, utilizatorii pot compara performanța filmelor între ele 
                                 sau cu industria în ansamblu. Pot fi create grafice și rapoarte comparative pentru a evidenția 
                                 diferențele și a identifica filmele de succes sau tendințele emergente. "),
-                             h4("Pentru mai multe metode de analizare a datelor utilizate în cadrul lucrării de cercetare accesați ", a("aici", href = "https://github.com/denisa110"), "."),
+                             h4("Pentru mai multe metode de analizare a datelor utilizate în cadrul lucrării de cercetare accesați ", a("aici", href = "https://github.com/denisa110/analiza_productiilor_cinematografice/tree/main/Analiza_detelor"), "."),
+                             h4("Pentru vizualizarea codului aplicației accesați ", a("aici", href = "https://github.com/denisa110/analiza_productiilor_cinematografice/tree/main/IMDb-Shiny-app"), "."),
                              br(),)
                  )
         ))
